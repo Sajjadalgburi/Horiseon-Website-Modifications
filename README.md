@@ -50,6 +50,13 @@ Step 8: Push to GitHub
 Step 9: Verify on GitHub
     - Visit your GitHub repository in a web browser to confirm that your local files are now on GitHub.
 
+/
+/
+If you're running into any issues follow the Youtube video below instead!!
+Link to the video: https://www.youtube.com/watch?v=qMck70tLDuo
+/
+/
+
 ## Usage
 
 Provide instructions and examples for use. Include screenshots as needed.
