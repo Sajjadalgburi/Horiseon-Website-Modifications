@@ -23,17 +23,21 @@ Step 2: Open Terminal or Command Prompt
 
 Step 3: Navigate to the Project Directory
     - Use the cd command to navigate to the directory where you want to store your project.
+
         - cd path/to/your/project
 
 Step 4: Initialize Git in the Local Directory
+
     - git init
 
 Step 5: Connect Local Repository to GitHub Repository
      - Use the following command to add a remote connection to your GitHub repository. Replace your-username with your GitHub username and your-repo with the name of your GitHub repository:
+
         - git remote add origin https://github.com/your-username/your-repo.git
 
 Step 6: Verify the Remote Connection
      - Confirm that the remote connection has been added successfully by running:
+
         - git remote -v
 
 Step 7: Add and Commit Changes
@@ -52,20 +56,12 @@ Step 9: Verify on GitHub
 
 /
 /
+
 If you're running into any issues follow the Youtube video below instead!!
 Link to the video: https://www.youtube.com/watch?v=qMck70tLDuo
+
 /
 /
-
-## Usage
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
 
 ## Credits
 (Semantic HTML) 
@@ -77,18 +73,3 @@ Youtube: https://www.youtube.com/watch?v=lWu5zf_S9R4
 
 (How to add comments)
 Website: https://developer.mozilla.org/en-US/docs/Web/CSS/Comments
-
-## License
-
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
