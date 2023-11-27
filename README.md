@@ -48,7 +48,7 @@ Step 7: Add and Commit Changes
 
 Step 8: Push to GitHub
      - Push your local repository to GitHub:
-
+        - git push -u origin main
         - git push -u origin master
 
 Step 9: Verify on GitHub
