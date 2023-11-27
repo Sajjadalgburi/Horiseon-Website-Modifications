@@ -49,8 +49,8 @@ Step 7: Add and Commit Changes
 Step 8: Push to GitHub
      - Push your local repository to GitHub:
      
+        - git pull --rebase origin main
         - git push -u origin main
-        - git push -u origin master
 
 Step 9: Verify on GitHub
     - Visit your GitHub repository in a web browser to confirm that your local files are now on GitHub.
